@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv312/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Local API configuration
+config.json
+
+# Streamlit local secrets
+.streamlit/secrets.toml
