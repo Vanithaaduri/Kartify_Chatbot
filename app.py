@@ -1434,7 +1434,7 @@ if customer_id:
 
             st.dataframe(
                 customer_orders,
-                use_container_width=True,
+                width="stretch",
                 hide_index=True,
             )
 
